@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Hi, I'm Billy Nguyen. I'm a senior at Temple University, studying Cybersecurity.
+
+- 🔭 I’m currently working on personal projects throughout my free time
+- 🌱 I’m currently learning Python & Machine Learning
+- 🤔 I’m looking for help with getting ideas on how to create a personal project and how to approach it
+- 💬 Ask me about anything
+- 📫 How to reach me: LinkedIn
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I was part of the ESports Team competing in Valorant
 
 
 # 💻 Tech Stack:
@@ -15,15 +24,3 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **billycoders/billycoders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
